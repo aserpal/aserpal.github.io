@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir: True
 
 languages:
   en:
-    baseURL: "/en/
+    baseURL: "/en/"
     languageName: ":uk:"
     contentDir: "content/en"
     weight: 1
